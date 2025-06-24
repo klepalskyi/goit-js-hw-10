@@ -1,0 +1,33 @@
+body {
+  padding: 15px;
+}
+
+#datetime-picker {
+  width: 220px;
+  height: 24px;
+}
+
+#datetime-picker + button {
+  height: 31.2px;
+}
+
+.timer {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+}
+
+.value {
+  font-size: 48px;
+}
+
+.label {
+  font-size: 14px;
+  color: #666;
+  text-transform: uppercase;
+}

@@ -3,8 +3,10 @@
   display: inline-block;
   padding: 4px 8px;
   margin-top: 32px;
+  margin-bottom: 40px;
   border: 1px solid;
   border-radius: 8px;
+  align-self: start;
 }
 .back-link::before {
   content: '';
